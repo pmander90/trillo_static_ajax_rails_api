@@ -24,3 +24,7 @@ Heroku expects the rails/rack app to be at the root of the git repo.  Since the 
 ```
 git subtree push --prefix trillo heroku master
 ```
+
+### For example
+
+https://limitless-bayou-6550.herokuapp.com/
